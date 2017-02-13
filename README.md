@@ -1,1 +1,1 @@
-# chocho.github.io
+# choch-o.github.io
