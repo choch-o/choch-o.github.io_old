@@ -1,4 +1,4 @@
-# chocholog
+# choch-o.github.io
 
 > My personal website
 
