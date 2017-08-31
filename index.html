@@ -3,10 +3,20 @@
   <head>
     <meta charset="utf-8">
     <title>chocholog</title>
+    <link rel="stylesheet" href="https://unpkg.com/tachyons@4.6.1/css/tachyons.min.css"/>
+    <script src="https://unpkg.com/vue"></script>
   </head>
   <body>
     <div id="app">
-      First Vue app testing
+      {{ message }}
     </div>
+    <script>
+      var app = new Vue({
+        el: '#app',
+        data: {
+          message: 'Hello Vue!'
+        }
+      })
+    </script>
   </body>
 </html>
