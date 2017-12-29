@@ -1,0 +1,9 @@
+---
+layout: post
+title: Welcome to My Homepage
+---
+Welcome, visitors!  
+Breaking news on my work are going to be uploaded here.  
+Keep your eyes on!
+
+Enjoy :-)
