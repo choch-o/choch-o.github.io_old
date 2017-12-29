@@ -23,30 +23,34 @@ Secondary School
 
 ## Experience
 ### NMSL (Networking and Mobile Systems Lab)
-Research Intern
+**_Research Intern_**
 
 Advised by Prof. Sung-Ju Lee
 
 *Mar. 2017 - Present*
 
-### Frontend Developer @ KISWE
+### KISWE
+**_Frontend Developer_**
 *Jun. 2017 - Aug. 2017*
 
-### Developer @ MAD Camp
+### MAD Camp
+**_Developer_**
 Mobile Application Development Camp supported by Byungyu Jang of Bon Angels
 
 *Dec. 2016 - Feb. 2017*
 
-### Research Intern & URP @ KIXLAB (KAIST Interaction Lab)
+### KIXLAB (KAIST Interaction Lab)
+**_Research Intern & URP (Undergraduate Research Program)_**
 Advised by Prof. Juho Kim and Prof. Jihee Kim
 
 *Dec. 2015 - Feb. 2017*
 
-### Teaching Assistant for CS101 - Introduction to Programming @ KAIST
+### CS101 - Introduction to Programming @ KAIST
+**_Teaching Assistant_**
 *Sep. 2016 - Dec. 2017
 
 ### SPARCS (Developers' Club) @ KAIST
-Server Manager & Web Developer
+**_Server Manager & Web Developer_**
 
 *Mar. 2014 - Feb. 2017*
 
