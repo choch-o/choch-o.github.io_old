@@ -22,6 +22,8 @@ Secondary School
 
 *Aug. 2008 - May. 2013*
 
+-------------------------------
+
 Experience
 ==========
 ### NMSL (Networking and Mobile Systems Lab)
