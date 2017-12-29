@@ -9,7 +9,7 @@ Education
 --------------------------------------------------------------
 
 ### KAIST(Korea Advanced Institute of Science and Technology)
-B.S. in School of Computing (SW Advanced Major)
+B.S. in School of Computing (SW Advanced Major) 
 
 *Aug.2013 - Present*
 
@@ -37,22 +37,24 @@ Advised by Prof. Sung-Ju Lee
 
 ### KISWE
 **_Frontend Developer_**
+
 *Jun. 2017 - Aug. 2017*
 
 ### MAD Camp
 **_Developer_**
-Mobile Application Development Camp supported by Byungyu Jang of Bon Angels
 
-*Dec. 2016 - Feb. 2017*
+Mobile Application Development Camp by Bon Angels & KAIST, *Dec. 2016 - Feb. 2017*
 
 ### KIXLAB (KAIST Interaction Lab)
 **_Research Intern & URP (Undergraduate Research Program)_**
+
 Advised by Prof. Juho Kim and Prof. Jihee Kim
 
 *Dec. 2015 - Feb. 2017*
 
 ### CS101 - Introduction to Programming @ KAIST
 **_Teaching Assistant_**
+
 *Sep. 2016 - Dec. 2017*
 
 ### SPARCS (Developers' Club) @ KAIST
