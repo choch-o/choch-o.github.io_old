@@ -6,6 +6,7 @@ permalink: /cv
 
 Education
 =========
+--------------------------------------------------------------
 
 ### KAIST(Korea Advanced Institute of Science and Technology)
 B.S. in School of Computing (SW Advanced Major)
@@ -22,10 +23,11 @@ Secondary School
 
 *Aug. 2008 - May. 2013*
 
--------------------------------
+
 
 Experience
 ==========
+--------------------------------------------------------------
 ### NMSL (Networking and Mobile Systems Lab)
 **_Research Intern_**
 
