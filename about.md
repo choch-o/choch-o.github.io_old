@@ -47,7 +47,7 @@ Advised by Prof. Juho Kim and Prof. Jihee Kim
 
 ### CS101 - Introduction to Programming @ KAIST
 **_Teaching Assistant_**
-*Sep. 2016 - Dec. 2017
+*Sep. 2016 - Dec. 2017*
 
 ### SPARCS (Developers' Club) @ KAIST
 **_Server Manager & Web Developer_**
