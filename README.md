@@ -1,6 +1,6 @@
-# hyunsungcho.me
+# hyunsungcho.com
 
-Source code for my website [hyunsungcho.me](http://hyunsungcho.me) or [choch-o.github.io](http://choch-o.github.io)
+Source code for my website [hyunsungcho.com](http://hyunsungcho.com) or [choch-o.github.io](http://choch-o.github.io)
 
 ![hyunsungcho.me screenshot](images/_screenshot.png)
 
